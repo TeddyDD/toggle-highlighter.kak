@@ -1,4 +1,4 @@
-# Toggle highlighter
+# toggle-highlighter
 
 [![IRC][IRC Badge]][IRC]
 
